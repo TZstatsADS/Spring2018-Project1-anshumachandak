@@ -4,24 +4,14 @@
 ![image](figs/title.jpg)
 
 ### [Project Description](doc/)
-This is the first and only *individual* (as opposed to *team*) this semester. 
+Do the inauguration speeches represent the popular thought? Do inauguration speeches give an insight into the intention of the Presidents? Are the words used during a period of War different from those used during period of Peace? Well, yes! This project studies the speeches of presidents by categorizing them into "War Time" Presidents and "Peace Time" Presidents. We aim to study how the usage of words, sentence construction, and sentiments change over time- from period of peace to period of war.
 
 Term: Spring 2018
 
-+ Projec title: Lorem ipsum dolor sit amet
-+ This project is conducted by [your name]
++ Projec title: War and Peace
++ This project is conducted by Anshuma Chandak
 
-+ Project summary: [a short summary] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++ Project summary: We are given 58 inaugural speeches by 45 presidents of the United States of America. I came across an article by Washington Post, titled- *"Here’s how much of your life the United States has been at war"*,and inspired by it I decided to study the speeches of American Presidents by categorizing them into "War time" Presidents and "Peace time" Presidents.
 
-Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
+For the purpose of this study, a war time president is the one who was involved in signing a war declaration, and actively engaged in taking the US to war. While, a peace time president is the one who either did not have any war during his term or was involved in ending an ongoing war. 
 
-```
-proj/
-├── lib/
-├── data/
-├── doc/
-├── figs/
-└── output/
-```
-
-Please see each subfolder for a README file.
