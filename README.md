@@ -13,11 +13,30 @@ Term: Spring 2018
 
 + Project summary:
 
-We are given 58 inaugural speeches by 45 presidents of the United States of America.Inspired by an article in Washington Post, titled-*"Here’s how much of your life the United States has been at war"*,I decided to study the speeches of American Presidents by categorizing them into "War time" Presidents and "Peace time" Presidents and see if there is a remarkable difference in the sentence construction, emotions, and topic of their speeches. 
+Inspired by an article in Washington Post, titled-*"Here’s how much of your life the United States has been at war"*,I decided to study the speeches of American Presidents by categorizing them into "War time" Presidents and "Peace time" Presidents and see if there is a remarkable difference in the sentence construction, emotions, and topic of their speeches. 
 
-For the purpose of this study, a war time president is the one who was involved in signing a war declaration, and actively engaged in taking the US to war. While, a peace time president is the one who either did not have any war during his term or was involved in ending an ongoing war. I took the following presidents in the "War Time Presidents" cohort:- Woodrow Wilson (World War I), Franklin D. Roosevelt (World War II), Lyndon B. Johnson (Vietnam War), and George W. Bush (Iraq War). The following are the presidents, I have included in the "Peace Time Presidents":- John Quincy Adams, Ulysses S. Grant, Dwight D. Eisenhower, and Jimmy Carter.
+For the purpose of this study, a war time president is the one who was involved in signing a war declaration, and actively engaged in taking the US to war. While, a peace time president is the one who either did not have any war during his term or was involved in ending an ongoing war. We took the following presidents in the "War Time Presidents" cohort:- Woodrow Wilson (World War I), Franklin D. Roosevelt (World War II), Lyndon B. Johnson (Vietnam War), and George W. Bush (Iraq War); and the following in the "Peace Time Presidents" cohort:- John Quincy Adams, Ulysses S. Grant, Dwight D. Eisenhower, and Jimmy Carter.
 
-The following word cloud shows the difference in the words that are used by the War-time presidents and the Peace-time presidents. 
+The following word cloud shows the difference in the usage of words by the War-time presidents and the Peace-time presidents. 
 
 ![image](figs/im1.png)
+
+The speeches of the war-time presidents (left) have less diversity in terms of vocabulary, and we see the following words the most- people, nation, world,government. Looking at the word cloud of peace-time presidents (right), there is more diversity in the words used, with the following words having the highest frequency of showing up- peace, nation, people, freedom, free, union, government. There is more usage of words that signify solidarity, in the speeches of peace-time presidents.
+
+Having looked at the frequency of words, we now take a look at the emotion quotient of the speeches:
+
+![image](figs/im2.png)
+
+We observe that the speeches of war time presidents are more emotionally charged with higher scores for anger, disgust, fear, and negative sentiment. There is 30 per cent more negative sentiment, 23 per cent more anger, and 85 per cent more disgust in war-time presidents' speech than the peace-time presidents' speech.  There is lesser trust and positive sentiment in their speeches as compared to the speeches of the peace-time presidents.
+
+All the results point to the fact that the speeches of War-time presidents were more direct, succint, and emotionally charged. At the end of this study, I wonder if the times lead to such speeches or if the speeches lead to such times? I leave this idea open to the reader, and continue to dig deeper into the psyche of the Presidents of the United States of America. 
+
+Final note:
+* To reproduce the result: Please see each subfolder for a README file.Main result can be reproduced from the ac4258-proj1.Rmd file in the lib forder.
+* Reference: I have made use of the codes (with some changes) that were provided by the instructor, Prof. Ying Liu and the Teacher Assistance, Chengliang Tang.
+* Link to the article: (https://www.washingtonpost.com/news/politics/wp/2017/08/22/heres-how-much-of-your-life-the-u-s-has-been-at-war/?utm_term=.05c415ed44f9)
+
+
+
+
 
