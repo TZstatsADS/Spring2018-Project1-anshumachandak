@@ -8,4 +8,4 @@ It contains the following files pertaining to project 1:
 3. The nb.html files called ac4258-proj1.nb.html
 4. The pdf file called ac4258-proj1.pdf
 5. The MD file called ac4258-proj2.md
-6. Finally, there is a subfolder containing the plots from the MD file-
+6. Finally, there is a subfolder containing the plots from the MD file
