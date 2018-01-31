@@ -18,5 +18,6 @@ We are given 58 inaugural speeches by 45 presidents of the United States of Amer
 For the purpose of this study, a war time president is the one who was involved in signing a war declaration, and actively engaged in taking the US to war. While, a peace time president is the one who either did not have any war during his term or was involved in ending an ongoing war. I took the following presidents in the "War Time Presidents" cohort:- Woodrow Wilson (World War I), Franklin D. Roosevelt (World War II), Lyndon B. Johnson (Vietnam War), and George W. Bush (Iraq War). The following are the presidents, I have included in the "Peace Time Presidents":- John Quincy Adams, Ulysses S. Grant, Dwight D. Eisenhower, and Jimmy Carter.
 
 The following word cloud shows the difference in the words that are used by the War-time presidents and the Peace-time presidents. 
+
 ![image](figs/im1.png)
 
