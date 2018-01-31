@@ -1,7 +1,7 @@
 # Spring 2018
 # Project 1: What did the presidents say at their inauguation?
 
-![image](figs/title.jpg)
+![image](figs/war.jpg)
 
 ### [Project Description](doc/)
 Do the inauguration speeches represent the popular thought? Do inauguration speeches give an insight into the intention of the Presidents? Are the words used during a period of War different from those used during period of Peace? Well, yes! This project studies the speeches of presidents by categorizing them into "War Time" Presidents and "Peace Time" Presidents. We aim to study how the usage of words, sentence construction, and sentiments change over time- from period of peace to period of war.
