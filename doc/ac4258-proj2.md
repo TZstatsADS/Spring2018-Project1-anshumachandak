@@ -1,3 +1,6 @@
+Introduction
+------------
+
 Inaugural speeches are delivered in inaugural events signifying induction of a President into office. They set forth the political principles that will guide the new administration, and are very insightful when it comes to learning about the intentions of the new government.
 
 We are given 58 inaugural speeches by 45 presidents of the United States of America. Inspired by an article in Washington Post, titled-*"Here’s how much of your life the United States has been at war"*,I decided to study the speeches of American Presidents by categorizing them into "War time" Presidents and "Peace time" Presidents and see if there is a remarkable difference in the sentence construction, emotions, and topic of their speeches.
@@ -417,7 +420,7 @@ theme(axis.text.x=element_text(angle=90,hjust=1))+ggtitle("Emotion scores for Wa
 
 From the plot above, we can conclude that the speeches of war time presidents are more emotionally charged with higher scores for anger, disgust, fear, and negative sentiments. There is 30 per cent more negative sentiment, 23 per cent more anger, and 85 per cent more disgust in war-time presidents' speech than the peace-time presidents' speech. There is lesser trust and positive sentiment in their speeches as compared to the speeches of the peace-time presidents.
 
-### 2.3.Topic Modeling
+### 2.4.Topic Modeling
 
 We are now aware of the kind of words the different presidents used, and the emotions their speeches represented. We now find out the topics that Presidents from both the groups talked about the most in their speeches. We achieve this by a tool of text mining,called topic modeling which is used to discover hidden semantic structures in a text body. We use the "Latent Dirichlet allocation" algorithm to achieve this.
 
