@@ -32,7 +32,7 @@ All the results point to the fact that the speeches of War-time presidents were 
 
 Final note:
 * To reproduce the result: Please see each subfolder for a README file.Main result can be reproduced from the ac4258-proj1.Rmd file in the doc folder.Also, the files that are required in the project are stored in data folder.
-* Reference: I have made use of the codes (with some changes) that were provided by the instructor, Prof. Ying Liu and the Teacher Assistance, Chengliang Tang.
+* Reference: I have made use of the codes (with some changes) that were provided by the instructor, Prof. Ying Liu and the Teaching Assistant, Chengliang Tang.
 * Link to the article: (https://www.washingtonpost.com/news/politics/wp/2017/08/22/heres-how-much-of-your-life-the-u-s-has-been-at-war/?utm_term=.05c415ed44f9)
 
 
