@@ -31,7 +31,7 @@ We observe that the speeches of war time presidents are more emotionally charged
 All the results point to the fact that the speeches of War-time presidents were more direct, succint, and emotionally charged. At the end of this study, I wonder if the times lead to such speeches or if the speeches lead to such times? I leave this idea open to the reader, and continue to dig deeper into the psyche of the Presidents of the United States of America. 
 
 Final note:
-* To reproduce the result: Please see each subfolder for a README file.Main result can be reproduced from the ac4258-proj1.Rmd file in the lib forder.
+* To reproduce the result: Please see each subfolder for a README file.Main result can be reproduced from the ac4258-proj1.Rmd file in the doc forder.
 * Reference: I have made use of the codes (with some changes) that were provided by the instructor, Prof. Ying Liu and the Teacher Assistance, Chengliang Tang.
 * Link to the article: (https://www.washingtonpost.com/news/politics/wp/2017/08/22/heres-how-much-of-your-life-the-u-s-has-been-at-war/?utm_term=.05c415ed44f9)
 
